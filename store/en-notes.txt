@@ -1,0 +1,45 @@
+Rongguang is a face-shape, skin-reading and AR makeup try-on app. No login needed. Everything runs on the device; the app has no server and makes no network requests.
+
+HOW TO TEST THE 3D FACE SCAN (iPhone with Face ID / TrueDepth)
+1. On the last intro page, tap "Allow" for Camera (Health is optional), then "Start".
+2. Open "Scan". In good light, without glasses, put your face inside the circle.
+3. When asked, slowly move your head in a circle, like setting up Face ID. Ticks light up green; if you get stuck, an arrow points to the missing part.
+4. When the ring is complete (or after ~30 s with over half done), a check appears and the result opens: face shape, skin score, six readings.
+5. If the image is too dark, blurry or far, the app shows a tip and "Scan again" instead of a result. This is intentional.
+
+DEVICES WITHOUT A TRUEDEPTH CAMERA (photo entry)
+Where ARKit face tracking is not supported (e.g. iPhone SE, Simulator), "Scan", "Try On" and "Future Me" show a "Choose from Photos" button instead of the camera. Pick a clear, well-lit front-facing selfie. Face shape is then estimated from the photo and labeled as an estimate.
+
+HOW TO TEST TRY-ON
+1. Open "Try On": the live camera shows your face with lipstick.
+2. Switch Lipstick / Shadow / Brows / Base (foundation) / Blush / Contour; tap a swatch, use the slider for intensity.
+3. Tap "Compare" and drag the divider: left bare, right made up.
+4. In Lipstick, the 2x2 button compares four shades; the heart saves a favorite.
+5. The camera button captures a photo to save or share (asks for Add to Photos permission).
+Foundation suggestions appear after one scan (matched to skin tone).
+
+FUTURE ME
+Choose a habit and drag the weeks slider. It is labeled "Illustration" on screen and on shared images; it is not a prediction.
+
+HEALTH (optional)
+Read only: sleep, dietary water, steps, to tailor advice. Never written, stored, shared or used for ads; used only on device (including Apple's on-device model).
+
+APPLE INTELLIGENCE
+If enabled, "Today" advice comes from Apple's on-device Foundation Models; otherwise rule-based advice is shown with a note.
+
+SIRI
+Say "Scan my face with Rongguang", "Try on makeup with Rongguang" or "Rongguang skin score".
+
+FACE DATA (answers to the usual TrueDepth / ARKit questions)
+- What face data is collected: during a scan, the app uses ARKit face tracking (face mesh and head pose) and Vision face landmarks from camera frames.
+- How it is used: only to guide the scan, estimate face shape from the proportions of the face mesh, place virtual makeup on the live image, and estimate skin readings. It is not used for identification, authentication, advertising, or marketing.
+- What is stored: for each completed scan, one photo and a small record (date, face shape, four face-width measurements derived from the mesh, 2D landmark coordinates and skin readings) are saved in the app's own container on the device with iOS Data Protection. The raw 3D face mesh is not stored. Live try-on frames are not stored unless the user takes a photo and chooses to save or share it.
+- Sharing: face data never leaves the device and is not shared with any third party. There is no analytics or third-party SDK.
+- Retention: until the user deletes a scan (swipe to delete in "All scans"), deletes everything (Settings > "Delete all scans and photos"), or deletes the app.
+- Privacy policy: see the Privacy Policy URL in App Store Connect, section "Face data".
+
+DISCLAIMERS SHOWN IN THE APP
+Skin readings: "for reference only, not a medical diagnosis". Shades: approximations from public swatches; not affiliated with any brand. No brand logos.
+
+REGIONS
+Offered in all App Store regions except mainland China and the European Union; it works the same everywhere. The UI follows the device language (English or Simplified Chinese).
