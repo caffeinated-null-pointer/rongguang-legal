@@ -1,0 +1,50 @@
+Rongguang helps you understand your own face. Scan it in 3D with your iPhone's TrueDepth camera to see your face shape and skin condition, then try on lipstick, foundation, blush, eyeshadow and brows in a live camera view before you buy. Everything is analyzed on your iPhone and never uploaded.
+
+3D FACE SCAN
+• Slowly turn your head in a circle, just like setting up Face ID — about 30 seconds
+• Face shape: oval, round, square, heart, long or diamond, with makeup and grooming tips that suit it
+• Six skin readings: redness, oiliness, uneven tone, dark circles, texture and blemishes, each shown as Low / Medium / High
+• Skin depth and undertone (cool, neutral or warm)
+• If the photo is too dark, blurry or too far away, you get tips to retake it instead of a result
+• Glasses are detected automatically so they don't skew the dark-circle reading
+• No TrueDepth camera? Pick a front-facing selfie from Photos instead
+
+LIVE AR TRY-ON
+• Lipstick in six families — nude, rosewood, pink, coral, red and berry — with adjustable intensity
+• Foundation shades suggested from your scanned skin tone, with a match percentage
+• Blush, contour (shadows and highlights placed for your face shape), eyeshadow and brows
+• Drag the divider to compare bare face and made-up face side by side
+• Save favorite lipsticks and compare four shades at once
+• Snap a photo of your look and save or share it
+
+FUTURE ME
+• Pick a habit — sleep well, eat well, both, or stay up late — and drag from 1 to 12 weeks to see how your complexion might change
+• Side-by-side view you can capture and share
+• This is an illustration based on habits, not a prediction
+
+DAILY ADVICE
+• One focus for today, right at the top of the home screen
+• On iPhones with Apple Intelligence, personalized advice is written by Apple's on-device model as you watch; other devices get basic advice
+• Skincare tips talk about ingredients and habits (niacinamide, ceramides, sunscreen), never brands
+• Optionally connect the Health app to read sleep, water and steps so advice fits your routine (read only, never written)
+
+TRACK YOUR PROGRESS
+• Every scan is saved, with a skin trend chart and a history for each reading
+• Drag a divider to compare your first photo with today's
+• Share a score card (no photo included)
+• Weekly scan reminder
+
+SIRI & SHORTCUTS
+• "Scan my face with Rongguang" and "Try on makeup with Rongguang" open the right screen
+• "Rongguang skin score" tells you your latest score and how it changed
+
+PRIVACY
+• Photos, face data and health data are processed on your iPhone and never uploaded to our servers, used for ads, or sold
+• No account needed; delete all records and photos in Settings at any time
+
+PLEASE NOTE
+• Skin readings are estimates from color and brightness in your photo, for reference only — not a medical diagnosis. If a skin problem persists, see a dermatologist.
+• Shade colors are approximations based on public swatches; your screen and lighting affect how they look, so check the real product. Brand names and trademarks belong to their owners; Rongguang is not affiliated with any of these brands.
+• 3D scanning requires an iPhone with a TrueDepth camera (Face ID models). Personalized AI advice requires a device that supports Apple Intelligence with it turned on.
+
+Available in English and Simplified Chinese, following your system language.
